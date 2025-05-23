@@ -1,0 +1,19 @@
+Job Title*: Full Stack Developer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Handles both frontend and backend development tasks. Works on all layers of the web application, ensuring seamless integration and performance.

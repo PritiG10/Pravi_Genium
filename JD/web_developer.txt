@@ -1,0 +1,19 @@
+Job Title*: Web Developer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Responsible for building and maintaining websites and web applications. Collaborates with designers and backend developers to implement user-facing features.

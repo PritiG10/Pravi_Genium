@@ -1,0 +1,19 @@
+Job Title*: Software Developer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Designs, codes, tests, and maintains software applications. Collaborates with cross-functional teams to deliver high-quality software solutions.

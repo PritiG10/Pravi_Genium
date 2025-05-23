@@ -1,0 +1,19 @@
+Job Title*: Data Engineer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Designs and builds systems for collecting, storing, and analyzing data. Works with big data tools and platforms to support data-driven decision-making.

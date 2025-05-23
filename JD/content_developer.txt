@@ -1,0 +1,19 @@
+Job Title*: Content Developer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Creates and manages digital content, including text, images, and videos. Works closely with marketing and design teams to ensure content aligns with brand strategy.

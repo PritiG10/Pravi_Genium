@@ -1,0 +1,19 @@
+Job Title*: Backend Developer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Develops server-side logic, database interactions, and APIs. Ensures the performance, security, and scalability of backend services.

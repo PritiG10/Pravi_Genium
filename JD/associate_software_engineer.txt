@@ -1,0 +1,19 @@
+Job Title*: Associate Software Engineer
+Company*:
+
+Select Company:
+
+Years of Experience:
+e.g. 2-4 years
+
+Must-Have Skills:
+e.g. React, JavaScript, CSS
+Separate skills with commas
+
+Good-to-Have Skills:
+e.g. TypeScript, Redux, Next.js
+Separate skills with commas
+
+
+Role Description:
+Assists in software development and testing. Works under the guidance of senior engineers to build and maintain software solutions.
