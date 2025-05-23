@@ -1,0 +1,31 @@
+* Operator 
+3) Resume Assessment - If an operator did a resume assessment for some resume, how can they see past resume results?
+4) Resume Assessment - Is the list of shortlisted candidates being stored and displayed?
+5) Resume Assessment - How can an operator schedule an interview for shortlisted users?
+
+* Admin Portal :-
+Job Descriptions
+1) Upload JD - After the admin uploads the JD file, should all fields be autocompleted?
+2) Edit JD - If a user is editing a job description, they can delete the job description file. Can they add a new job description file?
+
+7/5/2025
+6) Is the status is clickabe field? (Companies)
+7) Is the Company info fields or file should be required field?
+8) How we can predict the experience, Skill are included in the attached file? Can we give sample file?
+9) Is the user can upload only one file -> Yes
+10) Admin cant see intial password? -> Got it
+
+11) Is there needed to timer in interview?
+
+12) What should be the process of back button in the Process Resumes?
+
+13) What is the our matching criteria?
+
+Job Description is remaining
+
+14) Edit Operator - reset password form / reset password mail which is best?
+which method we want to reset password, reset password form like pravi/AMS application or checkbox to reset password and send the OTP?
+15) Resume assessment - Actions download, all users should be download or each candidate information should be download?
+What we can download from Actions download report button for all users commanly or for each user?
+
+16) Is the needed location has dropdownlist?

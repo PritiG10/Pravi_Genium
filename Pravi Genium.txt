@@ -1,0 +1,15 @@
+Admin portal -
+* Job Descriptions
+1)  All Companies dropdownlist open
+2) Search job descriptions
+3) Must-Have Skills, Good-to-Have Skills
+* Attachment, download report
+* Operators
+1) All Status dropdown - All Statuses
+
+
+
+Operators portal -
+1) Dashboard - View All
+2) Resume Assessment - Assessment Process
+3) download report
